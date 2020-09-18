@@ -10,7 +10,7 @@
 ### Ruby Brown | https://github.com/rubybrown101/codewordsstudio
 ### Bridie O'Toole | https://github.com/bridieotoole/codewords
 ### Yutang Mu | https://github.com/YutangMoo/MakeCode
-### Marie (Roby) Manlongat | https://github.com/robymanlongat
+### Marie (Roby) Manlongat | https://github.com/robymanlongat/c0dewords
 ### Tayla Kristen Rogic | https://github.com/taylarogic/codeWords
 ### Jamie Tung | https://github.com/Jamtt/Codewords
 ### Hamish Payne | https://github.com/HamishPayne/CODE-WORDS
